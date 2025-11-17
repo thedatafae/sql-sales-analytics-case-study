@@ -42,4 +42,3 @@ SQL-DA-Portfolio/
 ## Notes on data quality
 - Missing `COUNTRY`/`TERRITORY` values are handled using `COALESCE(NULLIF(...), 'Unknown')` in the queries.
 - Aggregations are validated by cross-checking totals between `orders` and `order_details`.
----
