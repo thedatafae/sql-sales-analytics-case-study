@@ -1,8 +1,4 @@
-# SQL Data Analytics Portfolio Project
-
-**Project:** Sales Analytics — SQL-only case study
-
----
+# Sales Analytics Project (SQL)
 
 ## Project overview
 This repository contains a complete SQL-only data analytics case study built from a multi-table sales dataset (customers, orders, order_details, products). The project demonstrates end-to-end SQL skills for a junior Data Analyst role: data cleaning, joins, aggregations, CTEs, window functions, ranking, and business insights.
